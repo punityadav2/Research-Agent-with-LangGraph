@@ -1,0 +1,13 @@
+langgraph
+langchain-core
+langchain-openai
+pydantic    
+tavily-python
+langchain-groq
+groq
+python-dotenv
+langchain-community
+lxml
+beautifulsoup4
+langgraph-checkpoint-sqlite
+streamlit

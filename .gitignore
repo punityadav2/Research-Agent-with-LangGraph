@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+*.venv
+env/
+*.env
+
+# SQLite database
+# This file stores the agent's state and should not be committed.
+checkpoints.sqlite
+
+# Environment variables
+# This file contains sensitive API keys and must be ignored.
+.env
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
